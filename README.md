@@ -23,7 +23,6 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 Certainly! Below is an example template for your `README.md` file on your GitHub repository. Feel free to customize it based on your specific project details:
 
-```markdown
 
 # Coming Soon Laravel Website
 
