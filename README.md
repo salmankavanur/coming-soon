@@ -115,11 +115,8 @@ If you would like to contribute to this project, please follow the [contribution
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
 
 Make sure to customize the details such as the project description, installation steps, and any other relevant information based on your project's specifics. Additionally, consider creating separate files like `CONTRIBUTING.md` and `LICENSE` if needed.
-
-
 
 
 ## Learning Laravel
