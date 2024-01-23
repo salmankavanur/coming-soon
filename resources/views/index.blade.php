@@ -1,13 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
     <!-- Meta -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="keywords" content="">
-    <meta name="author" content="Awaiken Theme">
+    <meta name="description" content="Providing enhanced Cloud Solutions to our customers as per their need and requirements. Now it's the time to move to a Cloud Setup.">
+    <meta name="keywords" content="cloud solutions, Xperia Cloud">
+    <meta name="author" content="Salman MP Kavanur">
+
+    <!-- Open Graph meta tags for social sharing -->
+    <meta property="og:title" content="Xperia Cloud | The Complete Cloud Solutions">
+    <meta property="og:description" content="Providing enhanced Cloud Solutions to our customers as per their need and requirements. Now it's the time to move to a Cloud Setup.">
+    <meta property="og:image" content="{{ asset('assets/images/logo.png') }}">
+    <meta property="og:url" content="https://xperiacloud.com">
+    <meta property="og:type" content="website">
+
+    <!-- Twitter Card meta tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Xperia Cloud | The Complete Cloud Solutions">
+    <meta name="twitter:description" content="Providing enhanced Cloud Solutions to our customers as per their need and requirements. Now it's the time to move to a Cloud Setup.">
+    <meta name="twitter:image" content="{{ asset('assets/images/logo.png') }}">
+
+
     <!-- Page Title -->
     <title>XperiaCloud - The Complete Cloud Solutions</title>
     <!-- Google Fonts css-->
@@ -54,8 +70,7 @@
 
             <div class="site-info">
                 <h2>We're launching our <span>New Website</span></h2>
-                <p>We're coming soon! template to present your future website. We're <br/>working hard to give you
-                    the best experience!</p>
+                <p>We're coming soon!<br/>and we're working hard to give you the best experience!</p>
             </div>
         </div>
     </div>
