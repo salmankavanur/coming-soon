@@ -76,19 +76,13 @@ Follow the steps below to set up and run the project on your local machine.
    composer install
    ```
 
-4. Install Node.js dependencies:
-
-   ```bash
-   npm install
-   ```
-
-5. Create a copy of the `.env.example` file:
+4. Create a copy of the `.env.example` file:
 
    ```bash
    cp .env.example .env
    ```
 
-6. Generate the application key:
+5. Generate the application key:
 
    ```bash
    php artisan key:generate
